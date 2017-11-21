@@ -5,6 +5,12 @@
   "name": "quantum_arc",
   "version": "1.0",
   "homepage_url": "http://www.github.com/boogie666/quantum-arc",
+  "applications": {
+    "gecko": {
+      "id": "quantum-arc@boogie666.github.com"
+    }
+  },
+ 
   "theme": {
     "images": {
       "headerURL": "header.png"
