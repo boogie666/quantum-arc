@@ -3,7 +3,7 @@
   "description": "Simple Arc Dark Theme for firefox quantum",
   "manifest_version": 2,
   "name": "quantum_arc",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "homepage_url": "http://www.github.com/boogie666/quantum-arc",
   "permissions" : [
     "theme"
